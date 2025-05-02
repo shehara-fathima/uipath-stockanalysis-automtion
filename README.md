@@ -1,0 +1,1 @@
+This project automates the process of stock data analysis using UiPath, integrating with Excel to process and present results. It fetches real-time stock data, performs analysis (such as calculating averages, trends, etc.), and updates Excel reports. Exception handling is incorporated to ensure the bot can handle any errors gracefully during execution.
