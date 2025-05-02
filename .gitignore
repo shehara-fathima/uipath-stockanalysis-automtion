@@ -1,0 +1,26 @@
+# UiPath project-related ignores
+
+# User-specific or machine-specific files
+*.local
+*.user
+*.cache
+*.log
+
+# Output or temporary folders
+/.screenshots/
+/.publish/
+/TestResults/
+/output/
+
+# UiPath settings and config folders
+.settings/
+.project.json  # Optional: ignore if this file changes too often due to Studio updates
+
+# Visual Studio Code or JetBrains IDEs (if you use them)
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
